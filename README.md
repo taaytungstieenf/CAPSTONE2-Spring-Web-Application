@@ -1,3 +1,5 @@
 ### OUTLINE
 ##### How the Spring works?
-abc
++ Server     :  Tomcat
++ Framework  : Spring
++ API        : Servlet
