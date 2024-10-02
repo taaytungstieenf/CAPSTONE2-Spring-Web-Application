@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.mySpringProject.MySpringProjectApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-02T16:48:37" hostname="Swift-SF314-54" time="0.857">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.mySpringProject.MySpringProjectApplicationTests" time="0.857"/>
+  <system-out><![CDATA[23:48:35.437 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.mySpringProject.MySpringProjectApplicationTests]: MySpringProjectApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:48:35.571 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.mySpringProject.MySpringProjectApplication for test class com.example.mySpringProject.MySpringProjectApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-10-02T23:48:35.935+07:00  INFO 24452 --- [mySpringProject] [    Test worker] c.e.m.MySpringProjectApplicationTests    : Starting MySpringProjectApplicationTests using Java 17.0.11 with PID 24452 (started by tae in /home/tae/Desktop/WebApp/mySpringProject)
+2024-10-02T23:48:35.937+07:00  INFO 24452 --- [mySpringProject] [    Test worker] c.e.m.MySpringProjectApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-10-02T23:48:37.028+07:00  INFO 24452 --- [mySpringProject] [    Test worker] c.e.m.MySpringProjectApplicationTests    : Started MySpringProjectApplicationTests in 1.318 seconds (process running for 2.421)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
